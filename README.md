@@ -1,16 +1,74 @@
-# React + Vite
+# 🍹 Mojito — GSAP Animated Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and immersive **Mojito-themed landing page** built with **React, GSAP, and Tailwind CSS**. The project focuses on creating a premium user experience through smooth scrolling, cinematic animations, and interactive visual effects.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎬 GSAP-powered animations
+- 🖱️ Scroll-triggered animations with ScrollTrigger
+- ✨ Animated text and image reveals
+- 🎥 Smooth video and visual transitions
+- 📱 Fully responsive design
+- 🎨 Modern UI built with Tailwind CSS
+- ⚡ Fast development with Vite
+- 🍹 Interactive cocktail-focused sections
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React**
+- **JavaScript**
+- **GSAP**
+- **GSAP ScrollTrigger**
+- **Tailwind CSS**
+- **Vite**
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+### 2. Navigate to the project
+
+```bash
+cd Mojito_web
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:5173
+```
+
+## 🎓 Credits
+
+This project was developed as a **learning project** with guidance and inspiration from the **JavaScript Mastery** tutorial.
+
+Special thanks to **JavaScript Mastery** for the excellent teaching and for demonstrating the concepts used to build this type of GSAP-powered website.
+
+🔗 [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+
+## 👨‍💻 Author
+
+**Sanskar Amle**
+
+Computer Science & Engineering Student  
+Frontend Developer | Java & Spring Boot Learner
+
+---
+
+⭐ If you like the project, consider giving the repository a star!
